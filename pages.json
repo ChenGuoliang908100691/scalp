@@ -1,0 +1,317 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+		    "path" : "pages/index/index",
+		    "style" : {
+		    	"navigationBarTitleText": "集结号"
+		    }
+		},
+		
+		{
+            "path" : "pages/login/login",
+            "style" : {
+            	"navigationBarTitleText": "集结号"
+            }
+        },
+		
+		{
+		    "path" : "pages/question/question",
+		    "style" : {
+		    	"navigationBarTitleText": "常见问题"
+		    }
+		},
+		
+		{
+		    "path" : "pages/couponxuan/couponxuan",
+		    "style" : {
+		    	"navigationBarTitleText": "集结号"
+		    }
+		},
+		
+		{
+		    "path" : "pages/orderReceiving/orderReceiving",
+		    "style" : {
+		    	"navigationBarTitleText": "接单"
+		    }
+		},
+		
+		{
+            "path" : "pages/edit/product/product",
+            "style" : {
+            	"navigationBarTitleText": "集结号"
+            }
+        },
+		
+		{
+            "path" : "pages/edit/shop/shop",
+            "style" : {
+            	"navigationBarTitleText": "集结号"
+            }
+        },
+		
+		{
+            "path" : "pages/edit/shop_login/shop_login",
+            "style" : {
+            	"navigationBarTitleText": "集结号"
+            }
+        },
+		
+		{
+            "path" : "pages/user/agent/agent",
+            "style" : {
+            	"navigationBarTitleText": "集结号"
+            }
+        },
+		
+		{
+            "path" : "pages/user/tongji/tongji",
+            "style" : {
+            	"navigationBarTitleText": "集结号"
+            }
+        },
+		
+		{
+            "path" : "pages/detail/detail",
+			"style" : {
+				"navigationBarTitleText": "佣金明细"
+			}
+        },
+		
+		{
+            "path" : "pages/kucun/kucun",
+            "style" : {
+            	"navigationBarTitleText": "集结号"
+            }
+        },
+		
+		{
+            "path" : "pages/user/fenxiao/tixian/tixian",
+            "style" : {
+            	"navigationBarTitleText": "集结号"
+            }
+        },
+		
+		{
+            "path" : "pages/order/order",
+            "style" : {
+            	"navigationBarTitleText": "集结号"
+            }
+        },
+		
+		{
+            "path" : "pages/user/fenxiao/success/success",
+            "style" : {
+            	"navigationBarTitleText": "集结号"
+            }
+        },
+		
+		{
+            "path" : "pages/user/fenxiao/bankcard/bankcard",
+            "style" : {
+            	"navigationBarTitleText": "集结号"
+            }
+        },
+		
+		{
+            "path" : "pages/user/fenxiao/addcard/addcard",
+            "style" : {
+            	"navigationBarTitleText": "集结号"
+            }
+        },
+		
+		{
+            "path" : "pages/edit/product/addgroup/addgroup",
+            "style" : {
+            	"navigationBarTitleText": "集结号"
+            }
+        },
+		
+		{
+            "path" : "pages/edit/pro_manage/pro_manage",
+            "style" : {
+            	"navigationBarTitleText": "集结号"
+            }
+        },
+		
+		{
+            "path" : "pages/order/detail/detail",
+            "style" : {
+            	"navigationBarTitleText": "集结号"
+            }
+        },
+		
+		{
+            "path" : "pages/edit/yunfei/yunfei",
+            "style" : {
+            	"navigationBarTitleText": "集结号"
+            }
+        },
+		
+		{
+            "path" : "pages/edit/yfmoban/yfmoban",
+            "style" : {
+            	"navigationBarTitleText": "集结号"
+            }
+        },
+		
+		{
+            "path" : "pages/edit/yfset/yfset",
+            "style" : {
+            	"navigationBarTitleText": "集结号"
+            }
+        },
+		
+		{
+            "path" : "pages/user/reseller/reseller",
+            "style" : {
+            	"navigationBarTitleText": "我的"
+            }
+        },
+		
+		{
+            "path" : "pages/user/spread/spread",
+            "style" : {
+            	"navigationBarTitleText": "二维码"
+            }
+        },
+		
+		{
+            "path" : "pages/user/sort/sort",
+            "style" : {
+            	"navigationBarTitleText": "集结号"
+            }
+        },
+		
+		{
+            "path" : "pages/generalize/generalize",
+            "style" : {
+            	"navigationBarTitleText": "推广"
+            }
+        },
+		
+		{
+            "path" : "pages/member/member",
+            "style" : {
+            	"navigationBarTitleText": "集结号"
+            }
+        },
+		
+		{
+            "path" : "pages/send/send",
+            "style" : {
+            	"navigationBarTitleText": "集结号"
+            }
+        },
+		
+		{
+		    "path" : "pages/regulation/regulation",
+		    "style" : {
+		    	"navigationBarTitleText": "接单规则"
+		    }
+		},
+		
+		{
+		    "path" : "pages/binding/binding",
+		    "style" : {
+		    	"navigationBarTitleText": "账号绑定"
+		    }
+		},
+		
+		{
+		    "path" : "pages/accountMessage/accountMessage",
+		    "style" : {
+		    	"navigationBarTitleText": "账号信息"
+		    }
+		},
+		
+		{
+		    "path" : "pages/qqBinding/qqBinding",
+		    "style" : {
+		    	"navigationBarTitleText": "qq绑定"
+		    }
+		},
+		
+		{
+		    "path" : "pages/taobaoBinding/taobaoBinding",
+		    "style" : {
+		    	"navigationBarTitleText": "淘宝绑定"
+		    }
+		},
+		
+		{
+		    "path" : "pages/jingdongBinding/jingdongBinding",
+		    "style" : {
+		    	"navigationBarTitleText": "京东绑定"
+		    }
+		},
+		
+		{
+		    "path" : "pages/pinduoduoBinding/pinduoduoBinding",
+		    "style" : {
+		    	"navigationBarTitleText": "拼多多绑定"
+		    }
+		},
+		
+		{
+		    "path" : "pages/modificationAddress/modificationAddress",
+		    "style" : {
+		    	"navigationBarTitleText": "地址修改"
+		    }
+		},
+		
+		{
+		    "path" : "pages/example/JDexample",
+		    "style" : {
+		    	"navigationBarTitleText": "京东截图示例"
+		    }
+		},
+		
+		{
+		    "path" : "pages/example/PDDexample",
+		    "style" : {
+		    	"navigationBarTitleText": "拼多多截图示例"
+		    }
+		},
+		
+		{
+		    "path" : "pages/editAddress/editAddress",
+		    "style" : {
+		    	"navigationBarTitleText": "修改"
+		    }
+		} 
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+	,
+	"tabBar": {
+		"color": "#C0C4CC",
+		"selectedColor": "#2E8B57",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",		
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/home1.png",
+				"selectedIconPath": "static/home.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/orderReceiving/orderReceiving",
+				"iconPath": "static/jiedan1.png",
+				"selectedIconPath": "static/jiedan.png",
+				"text": "接单"
+			},
+			{
+				"pagePath": "pages/user/reseller/reseller",
+				"iconPath": "static/my1.png",
+				"selectedIconPath": "static/my.png",
+				"text": "我的"
+			}
+		]
+		
+	}
+}
